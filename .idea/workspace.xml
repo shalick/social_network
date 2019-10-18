@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4664312d-2464-4282-bf6c-856d196093f1" name="Default Changelist" comment="" />
+    <list default="true" id="4664312d-2464-4282-bf6c-856d196093f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/Users.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users/users.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/users.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/users-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-reducer.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Users" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -43,18 +50,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Users" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/redux" />
+      <recent name="$PROJECT_DIR$/src/components/Dialogs/DialogItem" />
+      <recent name="$PROJECT_DIR$/src/components/Dialogs/Message" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/Profile/MyPosts" />
       <recent name="$PROJECT_DIR$/src/components/Profile" />
       <recent name="$PROJECT_DIR$/src/components/Navbar" />
       <recent name="$PROJECT_DIR$/src/components/Header" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/images" />
-      <recent name="$PROJECT_DIR$/src/components/Users" />
-      <recent name="$PROJECT_DIR$/src/redux" />
-      <recent name="$PROJECT_DIR$/src/components/Dialogs/DialogItem" />
-      <recent name="$PROJECT_DIR$/src/components/Dialogs/Message" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -156,6 +163,14 @@
       <workItem from="1570054775537" duration="3390000" />
       <workItem from="1570099002072" duration="8212000" />
       <workItem from="1570186069241" duration="4812000" />
+      <workItem from="1570210945023" duration="457000" />
+      <workItem from="1571252465114" duration="1239000" />
+      <workItem from="1571264055393" duration="595000" />
+      <workItem from="1571265502031" duration="1386000" />
+      <workItem from="1571310163352" duration="589000" />
+      <workItem from="1571315853381" duration="4014000" />
+      <workItem from="1571341678907" duration="7000000" />
+      <workItem from="1571395513158" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 48 stateCopy">
       <created>1570044784030</created>
@@ -178,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570201924278</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson 52 UsersPage upgrated">
+      <created>1570211048428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570211048428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -212,7 +234,8 @@
     </ignored-roots>
     <MESSAGE value="lesson 48 stateCopy" />
     <MESSAGE value="lesson 49 UsersPage added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 49 UsersPage added" />
+    <MESSAGE value="lesson 52 UsersPage upgrated" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 52 UsersPage upgrated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
