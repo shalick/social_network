@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4664312d-2464-4282-bf6c-856d196093f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/withAuthRedirect.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" afterDir="false" />
@@ -192,7 +188,7 @@
       <workItem from="1573132245164" duration="4512000" />
       <workItem from="1573145561343" duration="4957000" />
       <workItem from="1573204826667" duration="1250000" />
-      <workItem from="1573472977569" duration="4910000" />
+      <workItem from="1573472977569" duration="6242000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 48 stateCopy">
       <created>1570044784030</created>
@@ -229,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571395940879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson 69 HOC">
+      <created>1573479252006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573479252006</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -265,7 +268,8 @@
     <MESSAGE value="lesson 49 UsersPage added" />
     <MESSAGE value="lesson 52 UsersPage upgrated" />
     <MESSAGE value="lesson 55 Users upgrated. Class component used" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 55 Users upgrated. Class component used" />
+    <MESSAGE value="lesson 69 HOC" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 69 HOC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
