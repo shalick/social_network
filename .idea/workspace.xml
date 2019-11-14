@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4664312d-2464-4282-bf6c-856d196093f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +196,14 @@
       <workItem from="1573145561343" duration="4957000" />
       <workItem from="1573204826667" duration="1250000" />
       <workItem from="1573472977569" duration="6242000" />
-      <workItem from="1573483044870" duration="4422000" />
+      <workItem from="1573483044870" duration="4518000" />
+      <workItem from="1573553379068" duration="2368000" />
+      <workItem from="1573559844559" duration="4838000" />
+      <workItem from="1573643000370" duration="1504000" />
+      <workItem from="1573647449167" duration="4433000" />
+      <workItem from="1573654221587" duration="1786000" />
+      <workItem from="1573725895363" duration="2679000" />
+      <workItem from="1573734985485" duration="5312000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 48 stateCopy">
       <created>1570044784030</created>
@@ -233,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573479252006</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson 71 setState">
+      <created>1573487532317</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573487532317</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -270,7 +291,8 @@
     <MESSAGE value="lesson 52 UsersPage upgrated" />
     <MESSAGE value="lesson 55 Users upgrated. Class component used" />
     <MESSAGE value="lesson 69 HOC" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 69 HOC" />
+    <MESSAGE value="lesson 71 setState" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 71 setState" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
