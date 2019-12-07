@@ -1,13 +1,13 @@
 import {createSelector} from "reselect";
 
-export const getUsersSelector = (state) => {
+const getUsersSelector = (state) => {
     return state.usersPage.users;
 }
 
-export const getUsers= createSelector(getUsersSelector,
+export const getUsers = createSelector(getUsersSelector,
     (users) => {
-    return users.filter(u => true);
-});
+        return users.filter(u => true);
+    })
 
 export const getTempSavedUsers = (state) => {
     return state.usersPage.users;
