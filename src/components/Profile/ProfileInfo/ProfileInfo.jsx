@@ -4,8 +4,8 @@ import Preloader from "../../common/Preloader/Preloader";
 import ProfileStatus from "./ProfileStatus"
 import ProfileStatusWithHooks from "./ProfileStatusWithHooks";
 
-const ProfileInfo = (props) => {
-    if (!props.profile) {
+const ProfileInfo = ({profile, status, updateStatus}) => {
+    if (!profile) {
         return <Preloader />
     }
     return (
@@ -15,8 +15,8 @@ const ProfileInfo = (props) => {
                     src='https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic4.businessinsider.com%2Fimage%2F54d20445dd08955a148b456e-960%2Fpanda-china-strong.jpg&f=1&nofb=1'></img>
             </div>
             <div className={s.descriptionBlock}>
-                <img src={props.profile.photos.large} />
-                <ProfileStatusWithHooks status={props.status} updateStatus={props.updateStatus}/>
+                <img src={profile.photos.large} />
+                <ProfileStatusWithHooks status={status} updateStatus={updateStatus}/>
             </div>
         </div>
     )
