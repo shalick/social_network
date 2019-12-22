@@ -12,17 +12,17 @@ let state = {
     ]
 };
 
-// it('length of posts should be incremented', () => {
-//     // 1. test data
-//     let action = addPostActionCreator("it-kamasutra.com");
-//
-//     // 2. action
-//     let newState = profileReducer(state, action);
-//
-//     // 3. expectation
-//     expect(newState.posts.length).toBe(5);
-//
-// });
+it('length of posts should be incremented', () => {
+    // 1. test data
+    let action = addPostActionCreator("it-kamasutra.com");
+
+    // 2. action
+    let newState = profileReducer(state, action);
+
+    // 3. expectation
+    expect(newState.posts.length).toBe(5);
+
+});
 
 it('message of new post should be correct', () => {
     // 1. test data
